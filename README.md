@@ -3,7 +3,7 @@
 
 The Intelligent Crop Recommendation System is a machine learning-based web application developed to recommend suitable crops based on soil nutrients and environmental conditions. The system analyzes parameters such as Nitrogen (N), Phosphorus (P), Potassium (K), pH value, rainfall, and state information to predict the most appropriate crop.
 
-The objective of this project is to support better agricultural decision-making through data-driven crop recommendations.
+The objective of this project is to help users make informed crop selection decisions by analyzing soil nutrients and environmental conditions using machine learning.
 
 ## Features
 
@@ -12,7 +12,7 @@ The objective of this project is to support better agricultural decision-making 
 * Crop Recommendation Prediction
 * Agricultural Dataset Viewing
 * Machine Learning Model Comparison
-* Performance Evaluation of Models
+* Machine Learning Model Performance Evaluation
 
 ## Machine Learning Models Used
 
@@ -30,6 +30,10 @@ The objective of this project is to support better agricultural decision-making 
 * Scikit-learn
 * Matplotlib
 
+## Dataset
+
+The system uses agricultural datasets containing soil nutrients, rainfall, pH values, and crop information to train and evaluate machine learning models for crop prediction.
+
 ## Project Workflow
 
 1. User registers and logs into the application.
@@ -40,4 +44,4 @@ The objective of this project is to support better agricultural decision-making 
 
 ## Author
 
-Panjala Poojitha
+**Panjala Poojitha**
