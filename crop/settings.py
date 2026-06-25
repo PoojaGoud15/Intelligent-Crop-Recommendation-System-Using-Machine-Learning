@@ -24,7 +24,11 @@ SECRET_KEY = 'c3ll$zf0siax$=glqsvjzgp8*be@@gnl=295p-#lp)$rv*(qt&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    "crop-recommendation-system-zg9c.onrender.com",
+    "127.0.0.1",
+    "localhost",
+]
 
 # Application definition
 
